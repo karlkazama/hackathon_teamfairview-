@@ -1,0 +1,7 @@
+Account Created...
+Account Name : iteam1
+Account No : 100601981056
+Currency : PHP
+Current Balance : 100000.0000
+Available Balance : 100000.0000
+Status : ACTIVE
